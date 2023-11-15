@@ -1,6 +1,6 @@
 ## FitnessConsultation Application
 
-#RUNNING THE APPLICATION
+# RUNNING THE APPLICATION
 
 ``` sql
 select * from emp join dept on emp.deptno = dept.deptno;
