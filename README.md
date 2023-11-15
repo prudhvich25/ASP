@@ -3,10 +3,13 @@
 #RUNNING THE APPLICATION
 
 1. Create the database to be used by this application
-   -> create database asp; use asp;
-2. Open terminal in the directory of the application and run:
+   ```
+   sql
+   create database asp; use asp;
+   ```
+3. Open terminal in the directory of the application and run:
      -> ./gradlew bootRun
-3. Insert initial data which are the services offered by platform:
+4. Insert initial data which are the services offered by platform:
    ->
    INSERT INTO services (service)
     VALUES
@@ -40,7 +43,7 @@
     ('Customized Cross-Training'),
     ('Powerlifting Programs'),
     ('Plyometric Training');
-4. You are now ready to use the REST API's of this application
+5. You are now ready to use the REST API's of this application
 
 ## Grails 6.0.0 Documentation
 
