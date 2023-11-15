@@ -1,3 +1,4 @@
+## FitnessConsultation Application
 ## Grails 6.0.0 Documentation
 
 - [User Guide](https://docs.grails.org/6.0.0/guide/index.html)
