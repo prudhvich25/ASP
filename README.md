@@ -2,6 +2,10 @@
 
 #RUNNING THE APPLICATION
 
+``` sql
+select * from emp join dept on emp.deptno = dept.deptno;
+```
+
 1. Create the database to be used by this application
    ```
    sql
