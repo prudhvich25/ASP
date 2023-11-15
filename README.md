@@ -1,6 +1,6 @@
-## FitnessConsultation Application
+# FitnessConsultation Application
 
-# RUNNING THE APPLICATION
+## RUNNING THE APPLICATION
 
 1. Create the database to be used by this application
    ```
